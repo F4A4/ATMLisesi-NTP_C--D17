@@ -1,0 +1,12 @@
+C:\Users\MO-04\Desktop\YeniKonu\YeniKonu\bin\Debug\YeniKonu.exe
+C:\Users\MO-04\Desktop\YeniKonu\YeniKonu\bin\Debug\YeniKonu.pdb
+C:\Users\MO-04\Desktop\YeniKonu\YeniKonu\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MO-04\Desktop\YeniKonu\YeniKonu\obj\x86\Debug\YeniKonu.Form1.resources
+C:\Users\MO-04\Desktop\YeniKonu\YeniKonu\obj\x86\Debug\YeniKonu.Properties.Resources.resources
+C:\Users\MO-04\Desktop\YeniKonu\YeniKonu\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MO-04\Desktop\YeniKonu\YeniKonu\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MO-04\Desktop\YeniKonu\YeniKonu\obj\x86\Debug\YeniKonu.exe
+C:\Users\MO-04\Desktop\YeniKonu\YeniKonu\obj\x86\Debug\YeniKonu.pdb
+C:\Users\MO-04\Desktop\YeniKonu\YeniKonu\obj\x86\Debug\YeniKonu.Form2.resources
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\17.GÜN\YeniKonu\YeniKonu\obj\x86\Debug\YeniKonu.exe
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\17.GÜN\YeniKonu\YeniKonu\obj\x86\Debug\YeniKonu.pdb

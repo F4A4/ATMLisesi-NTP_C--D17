@@ -1,0 +1,12 @@
+C:\Users\ogr\Desktop\StringConcatanation\StringConcatanation\bin\Debug\StringConcatanation.exe
+C:\Users\ogr\Desktop\StringConcatanation\StringConcatanation\bin\Debug\StringConcatanation.pdb
+C:\Users\ogr\Desktop\StringConcatanation\StringConcatanation\obj\x86\Debug\StringConcatanation.Form1.resources
+C:\Users\ogr\Desktop\StringConcatanation\StringConcatanation\obj\x86\Debug\StringConcatanation.Properties.Resources.resources
+C:\Users\ogr\Desktop\StringConcatanation\StringConcatanation\obj\x86\Debug\StringConcatanation.csproj.GenerateResource.Cache
+C:\Users\ogr\Desktop\StringConcatanation\StringConcatanation\obj\x86\Debug\StringConcatanation.exe
+C:\Users\ogr\Desktop\StringConcatanation\StringConcatanation\obj\x86\Debug\StringConcatanation.pdb
+C:\Users\ogr\Desktop\StringConcatanation\StringConcatanation\obj\x86\Debug\StringConcatanation.Form2.resources
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\17.GÜN\Hocanın Yaptığı Örnek\StringConcatanation\StringConcatanation\obj\x86\Debug\StringConcatanation.exe
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\17.GÜN\Hocanın Yaptığı Örnek\StringConcatanation\StringConcatanation\obj\x86\Debug\StringConcatanation.pdb
+C:\Users\lenovo\Desktop\Bilişim Teknolojileri\C#-NTP\NTP Dersinde Yaptığımız Çalışmalar\17.GÜN\Hocanın Yaptığı Örnek\StringConcatanation\StringConcatanation\obj\x86\Debug\StringConcatanation.exe
+C:\Users\lenovo\Desktop\Bilişim Teknolojileri\C#-NTP\NTP Dersinde Yaptığımız Çalışmalar\17.GÜN\Hocanın Yaptığı Örnek\StringConcatanation\StringConcatanation\obj\x86\Debug\StringConcatanation.pdb
